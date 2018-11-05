@@ -1,0 +1,41 @@
+<resources>
+        <string name="app_name">Find a Cat</string>
+        <string name="find_a_cat_button_text">Find a Cat</string>
+        <string name="favourite_cats_button_text">Favourite Cats</string>
+        <string name="cat_facts">Cat fact:\n%s</string>
+        <string name="cat_name">Name:%s</string>
+        <string name="cat_gender">Gender:%s</string>
+        <string name="cat_breed">Breed:%s</string>
+        <string name="cat_zip">Zip Code:%s</string>
+        <string name="zip_hint">Zip Code</string>
+        <string name="cat_description">Descriptions:\n%s</string>
+        <string name="nearby_cat">Nearby Cats</string>
+        <string name="favorite_cats">Favorite Cats</string>
+        <string name="cat_details_text">Cat Details</string>
+        <string name="location">Location</string>
+        <string name="favorite">Favorite</string>
+        <string name="email">Email</string>
+        <string name="share">Share</string>
+        <string name="cat_image">image</string>
+        <string name="share_name_message">Check out this cat named: %s</string>
+        <string name="share_email_message">\nEmail: %s for more info</string>
+        <string name="share_photo_message">\nPhoto Uri here:%s</string>
+        <string name="email_title">I am interested in your cat named:%s</string>
+        <string name="email_address">%s</string>
+        <string name="permissions_granted">Location permission approved</string>
+        <string name="permissions_denied">Location permission denied,Please enter a zipcode to get cats</string>
+        <string name="location_not_found">Location couldn\'t be found,Please enter a zipcode to get cats</string>
+        <string name="no_location_permission">No location permission</string>
+        <string name="lanlog">%s,%s</string>
+        <string name="OK">OK</string>
+        <string name="Cancel">Cancel</string>
+        <string name="no_zip_found">please enter ZipCode</string>
+        <string name="enter_error">enter error,please try again</string>
+        <string name="fact_fetching">Fact Fetching...</string>
+        <string name="location_detecting">Location Detecting...</string>
+        <string name="image_downloading">Image Downloading...</string>
+        <string name="zip_fetching">ZipCode Finding...</string>
+        <string name="internet">Zipcode Error,Check your internet or enter zipCode again</string>
+        <string name="petfinder_failed">Cannot find a cat in this area, please try another zipcode or check your internet</string>
+</resources>
+

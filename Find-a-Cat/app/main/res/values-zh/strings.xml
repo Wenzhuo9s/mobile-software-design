@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">找猫</string>
+    <string name="find_a_cat_button_text">找个猫</string>
+    <string name="favourite_cats_button_text">喜欢的猫</string>
+    <string name="cat_facts">座右铭:\n%s</string>
+    <string name="cat_name">名字:%s</string>
+    <string name="cat_gender">性别:%s</string>
+    <string name="cat_breed">品种:%s</string>
+    <string name="cat_zip">邮政编码:%s</string>
+    <string name="zip_hint">邮政编码</string>
+    <string name="cat_description">描述:\n%s</string>
+    <string name="nearby_cat">附近的猫</string>
+    <string name="favorite_cats">喜欢的猫</string>
+    <string name="cat_details_text">详情</string>
+    <string name="location">位置</string>
+    <string name="favorite">喜欢</string>
+    <string name="email">邮件</string>
+    <string name="share">分享</string>
+    <string name="cat_image">图片</string>
+    <string name="share_name_message">猫的名字是: %s</string>
+    <string name="share_email_message">\n邮箱: %s 获得更多信息</string>
+    <string name="share_photo_message">\n照片链接:%s</string>
+    <string name="email_title">我对你的猫感兴趣，名字是:%s</string>
+    <string name="email_address">%s</string>
+    <string name="permissions_granted">允许使用位置</string>
+    <string name="permissions_denied">不能使用位置</string>
+    <string name="location_not_found">找不到当前位置</string>
+    <string name="no_location_permission">没有位置允许</string>
+    <string name="lanlog">%s,%s</string>
+    <string name="OK">好的</string>
+    <string name="Cancel">取消</string>
+    <string name="no_zip_found">输入邮政编码</string>
+    <string name="enter_error">输入错误，请重新尝试</string>
+    <string name="fact_fetching">座右铭抓取...</string>
+    <string name="location_detecting">检测位置...</string>
+    <string name="image_downloading">下载图片...</string>
+    <string name="zip_fetching">寻找编码...</string>
+    <string name="internet">检查你的网络或重新输入zipcode</string>
+    <string name="petfinder_failed">不能找到猫，请重试</string>
+</resources>

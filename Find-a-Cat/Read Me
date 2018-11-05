@@ -1,1 +1,8 @@
+Read me
 
+It is a class project using kotlin language similar to swift to complete a android application about finding a nearby cat.
+It has fuctions like location, api recall, recyclerview list, favorite cats, dialogs and send message/email through app.
+You can find main activities and blackboxes classes in the app/src/main.
+And layout documents is put in the file app/src/res.
+Recently I still learn how to make a ios application using swift and xcode.
+And I also have experience with java and object-C, but these projects were finished earlier so I didn't post them on as a sample.

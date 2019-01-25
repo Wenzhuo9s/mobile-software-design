@@ -18,7 +18,7 @@ class PersistenceManager(context: Context){
 
         val editor=sharedPreferences.edit()
 
-        //convert a list of scores into a JSON string
+        //convert a list of cats into a JSON string
         val moshi = Moshi.Builder().build()
         val listType = Types.newParameterizedType(List::class.java, PetItem::class.java)
         val jsonAdapter = moshi.adapter<List<PetItem>>(listType)

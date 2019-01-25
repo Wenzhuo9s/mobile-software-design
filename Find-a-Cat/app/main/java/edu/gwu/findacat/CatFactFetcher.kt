@@ -1,4 +1,4 @@
-@file:Suppress("DEPRECATION")
+
 package edu.gwu.findacat
 
 import android.app.ProgressDialog
